@@ -1,0 +1,6 @@
+*.pyc
+*.DS_Store
+*~
+django_javascript_features.egg-info
+/dist
+/build
